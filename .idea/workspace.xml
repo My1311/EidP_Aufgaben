@@ -5,12 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="23b4826e-a8d3-49cb-bd6c-558d85f4b105" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/A10/Lounge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A10_3/Rational.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A10_4/Punkt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A10_4/Weg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A10_10/Jahr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A10_10/Kalender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A10_10/Tag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A10_4/WegTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A10_567/Polynom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A10_567/PolynomTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A10_8/Rueckgabeautomat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A10_9/Composed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A10_9/Function.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A10_9/Hyperbel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A10_9/Parabel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A10_9/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A11_2/Spiegeln.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A11_2/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A11_3/Flugzeug.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A6/Kapital.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A10/Getraenkekarte.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A10/Getraenkekarte.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A10_4/Punkt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A10_4/Punkt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A10_4/Weg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A10_4/Weg.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,13 +56,13 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Rational">
-    <configuration name="Getraenke" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A10.Getraenke" />
+  <component name="RunManager" selected="Application.Stack">
+    <configuration name="Kalender" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A10_10.Kalender" />
       <module name="EidP Aufgaben Berrendorf" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="A10.*" />
+          <option name="PATTERN" value="A10_10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -57,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Getraenkekarte" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A10.Getraenkekarte" />
+    <configuration name="PolynomTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A10_567.PolynomTest" />
       <module name="EidP Aufgaben Berrendorf" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="A10.*" />
+          <option name="PATTERN" value="A10_567.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lounge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A10.Lounge" />
+    <configuration name="Rueckgabeautomat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A10_8.Rueckgabeautomat" />
       <module name="EidP Aufgaben Berrendorf" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="A10.*" />
+          <option name="PATTERN" value="A10_8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A10.Person" />
+    <configuration name="Stack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A11_2.Stack" />
       <module name="EidP Aufgaben Berrendorf" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="A10.*" />
+          <option name="PATTERN" value="A11_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Rational" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A10_3.Rational" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A10_9.Test" />
       <module name="EidP Aufgaben Berrendorf" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="A10_3.*" />
+          <option name="PATTERN" value="A10_9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,19 +123,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Lounge" />
-      <item itemvalue="Application.Rational" />
-      <item itemvalue="Application.Getraenke" />
-      <item itemvalue="Application.Getraenkekarte" />
-      <item itemvalue="Application.Person" />
+      <item itemvalue="Application.Kalender" />
+      <item itemvalue="Application.Stack" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.PolynomTest" />
+      <item itemvalue="Application.Rueckgabeautomat" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Rational" />
-        <item itemvalue="Application.Lounge" />
-        <item itemvalue="Application.Getraenkekarte" />
-        <item itemvalue="Application.Getraenke" />
-        <item itemvalue="Application.Person" />
+        <item itemvalue="Application.Stack" />
+        <item itemvalue="Application.Kalender" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Rueckgabeautomat" />
+        <item itemvalue="Application.PolynomTest" />
       </list>
     </recent_temporary>
   </component>
@@ -149,7 +162,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678373228308</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Die Aufgaben gehören zu Professor Berrendorf, Hochschule Bonn-Rhein-Sieg">
+      <created>1678984637395</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1678984637395</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -168,6 +188,53 @@
           <url>file://$PROJECT_DIR$/src/A10_3/Rational.java</url>
           <line>41</line>
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/A11_2/Stack.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/A11_2/Stack.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/A11_2/Stack.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/A11_2/Stack.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/A10_4/Weg.java</url>
+          <line>26</line>
+          <properties class="A10_4.Weg" method="verlaengern">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/A6/Kapital.java</url>
+          <line>5</line>
+          <properties class="A6.Kapital" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/A11_2/Stack.java</url>
+          <line>10</line>
+          <properties class="A11_2.Stack" method="push">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="40" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
