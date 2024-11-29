@@ -5,12 +5,20 @@ public class Flugzeug {
     static int anzahl;
     // Instanzvariablen
     double spannweite;
-    int kapazitaet; // Sitzkapazitaet
+    int plaetze; // Sitzkapazitaet
     // Konstruktor
-    public Flugzeug(double spannweite, int kapazitaet) {
+    public Flugzeug(double spannweite, int plaetze) {
         this.spannweite = spannweite;
-        this.kapazitaet = kapazitaet;
+        this.plaetze = plaetze;
         // 1 Flugzeug mehr
         ++ anzahl;
+    }
+    // Klassenmethode
+    public static int getAnzahl() {
+        return anzahl;
+    }
+
+    public String toString() {
+        return "Spannweite: " + spannweite + ",Sitze: " + plaetze;
     }
 }
